@@ -1,0 +1,63 @@
+1.15 LAB: Hello, World!
+1.16 LAB: Input and a Welcome message
+1.17 LAB: Print a warning sign
+1.18 LAB: Debugging statements
+1.19 LAB Checkpoint: Print a date
+1.20 LAB: Checkpoint Breakout Room Activity - Form groups
+1.21 LAB: Checkpoint Breakout Room Activity
+1.22 Week 1: Student activities and notes
+2.9 LAB CHECKPOINT: Calorie expenditure for a woman
+2.10 LAB: Compute calories burned during workout
+2.11 LAB: Using math module
+2.12 LAB: Using math functions
+2.13 LAB: Integer division
+2.14 LAB: Integer division (writing a custom function)
+2.15 LAB CHECKPOINT: Breakout Room Activity
+2.16 LAB (Optional): Creative pond-making
+3.12 LAB CHECKPOINT: Working with lists
+3.13 LAB: Phone number breakdown
+3.14 LAB: Simple statistics (Tuples)
+3.15 LAB: The Royal Name (Strings)
+3.16 LAB: Quiz Completion (Set)
+3.17 LAB CHECKPOINT Breakout Room Activity: A custom dictionary
+4.13 LAB CHECKPOINT: Largest number
+4.14 LAB: Middle number
+4.15 LAB: Different shades of grey
+4.16 LAB: Shipping Cost
+4.17 LAB: Interstate Highway Numbers
+4.18 LAB: Car Wash
+4.19 LAB: The UCSB surroundings tour guide!
+4.20 LAB: Who is the best?
+4.21 LAB CHECKPOINT: Breakout room lab (Housing Score)
+5.14 LAB CHECKPOINT: Tracking laps (Gradescope)
+5.15 LAB CHECKPOINT: Volume and Surface Area of a Sphere
+5.16 LAB: Stronger Passwords
+5.17 LAB: Customized step counter
+5.18 LAB: Print Beautification
+5.19 LAB: Is this a Phone Number?
+5.20 LAB: Breakout Room Activity - Functions as Vending Machines
+6.15 LAB CHECKPOINT: Print List Indices and Items
+6.16 LAB CHECKPOINT: Simulate `for` loop and `range`
+6.17 LAB: Count spaces, periods, or commas
+6.18 LAB: Password modifier
+6.19 LAB: Working with users
+6.20 LAB: Print Grid Pattern
+6.21 LAB: Breakout room - Housing score program (Gradescope)
+7.14 LAB CHECKPOINT: Numeric list
+7.15 LAB CHECKPOINT: Processing nested lists
+7.16 LAB: Breakout room activity - Interactive Menu
+7.17 LAB: Scrabble points
+7.18 LAB: Project Component - Date Conversion
+7.19 LAB: Project Component - Date Components' Validation
+8.9 LAB CHECKPOINT: Grade Management System 💯
+8.10 LAB CHECKPOINT: (Grades System) Total Course Grade
+8.11 LAB (Grades System) "List" menu option
+8.12 LAB (Grades System) "Add" menu option
+8.13 LAB (Grades System) "Update" menu option
+8.14 LAB (Grades System) "Delete" menu option
+9.8 LAB CHECKPOINT: Recursion Step-by-Step
+9.9 LAB CHECKPOINT: Fibonacci sequence (recursion)
+9.10 LAB: Print a triangle
+9.11 LAB: Number pattern
+9.12 LAB: Tally Marks (Unary Encoding)
+9.13 LAB: Recursive Search

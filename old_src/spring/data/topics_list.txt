@@ -1,0 +1,93 @@
+Programming
+input and output
+whitespace
+Variables
+assignments
+Objects
+Float
+Arithmetic
+expressions
+Division
+modulo
+Module
+Math module
+Function
+String
+List
+Tuple
+Set
+Dictionary
+data types summary
+Indexing
+Type conversions
+3.8 Binary numbers
+3.9 Representing text
+3.10 String formatting
+3.11 Alternative string formatting
+4.1 If-else branches
+equal values
+Comparing
+data types
+ranges
+logical operators
+gaps
+Membership operators
+identity operators
+Order of evaluation
+Code blocks
+indentation
+4.12 assert statements
+5.1 User-defined function
+5.2 Print functions
+5.3 Dynamic typing
+defining functions
+mathematical functions
+5.6 Function stubs
+5.9 Scope
+5.10 Namespaces
+5.11 if __name__ == "__main__"
+testing
+5.13 Help 
+docstrings
+document functions
+common error
+6.1 Loops
+6.2 While loops
+6.5 For loops
+range function
+6.7 While and loops
+6.8 Nested loops
+6.10 Break and continue
+6.11 Loop else
+6.12 enumerate
+7.1 Lists
+7.2 List methods
+7.3 Iterating
+7.5 nesting
+7.6 slicing
+7.7 modifying lists
+7.8 List comprehensions
+7.9 Sorting
+7.10 Dictionaries
+7.11 Dictionary methods
+7.12 Iterating over a dictionary
+7.13 Dictionary nesting
+8.1 Function arguments
+8.2 Keyword arguments
+default parameter values
+8.3 Arbitrary argument lists
+8.4 Multiple outputs
+8.5 String slicing
+8.6 Advanced string formatting
+8.7 String methods
+8.8 Splitting and joining strings
+9.1 Recursive functions
+9.3 debugging
+9.4 recursive function
+10.1 Reading files
+10.2 Writing files
+10.3 Interacting with file systems
+10.5 Command-line arguments
+files
+10.6 The 'with' statement
+10.7 Comma separated csv
